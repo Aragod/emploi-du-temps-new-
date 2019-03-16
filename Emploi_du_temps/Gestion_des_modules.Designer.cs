@@ -67,7 +67,7 @@
             // 
             // supprimer_button
             // 
-            this.supprimer_button.Location = new System.Drawing.Point(753, 243);
+            this.supprimer_button.Location = new System.Drawing.Point(753, 263);
             this.supprimer_button.Name = "supprimer_button";
             this.supprimer_button.Size = new System.Drawing.Size(89, 42);
             this.supprimer_button.TabIndex = 21;
@@ -77,7 +77,7 @@
             // 
             // modifier_button
             // 
-            this.modifier_button.Location = new System.Drawing.Point(655, 243);
+            this.modifier_button.Location = new System.Drawing.Point(655, 263);
             this.modifier_button.Name = "modifier_button";
             this.modifier_button.Size = new System.Drawing.Size(89, 42);
             this.modifier_button.TabIndex = 20;
@@ -87,7 +87,7 @@
             // 
             // ajouter_button
             // 
-            this.ajouter_button.Location = new System.Drawing.Point(556, 243);
+            this.ajouter_button.Location = new System.Drawing.Point(556, 263);
             this.ajouter_button.Name = "ajouter_button";
             this.ajouter_button.Size = new System.Drawing.Size(89, 42);
             this.ajouter_button.TabIndex = 19;
@@ -97,7 +97,7 @@
             // 
             // nouveau_button
             // 
-            this.nouveau_button.Location = new System.Drawing.Point(459, 243);
+            this.nouveau_button.Location = new System.Drawing.Point(459, 263);
             this.nouveau_button.Name = "nouveau_button";
             this.nouveau_button.Size = new System.Drawing.Size(89, 42);
             this.nouveau_button.TabIndex = 18;
